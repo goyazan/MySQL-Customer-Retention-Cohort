@@ -1,2 +1,2 @@
-# SQL
-This repository contains some of the SQL queries I built for my Upwork projects
+# Customer Retention Cohort Table built using MySQL v5.7
+
