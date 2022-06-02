@@ -1,2 +1,1 @@
-# Customer Retention Cohort Table built using MySQL v5.7
-
+## Customer Retention Cohort Table in MySQL v5.7
